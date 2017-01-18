@@ -1,0 +1,260 @@
+body{
+    margin:0;
+  }
+img{
+	border-radius: 8px;
+}
+#skills{
+  text-align: center;
+  font-family: quicksand;
+  font-size: 25px;
+}
+
+  #wrapper{
+    display:flex;
+
+    padding-left: 430px;
+    text-align:center;
+    font-family: quicksand;
+		list-style-type: none;
+	  font-size: 40px;
+		justify-content: space-between;
+}
+
+ul{
+  list-style-type: none;
+  text-align: center;
+  font-size: 40px;
+}
+
+.education > ul{
+  font-size: 30px;
+}
+.education{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align:center;
+  font-family: quicksand;
+  font-size: 25px;
+
+}
+
+.container{
+  background-color:#ffffff;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+  background-image:
+  height:60vh;
+  width:100vw;
+  font-size:25px;
+  color:#000000;
+  font-family: quicksand;
+  text-align:center;
+  padding-top: 10px;
+  padding-bottom: 90px;
+
+}
+
+.content__cta {
+  display: inline-block;
+  margin: 0;
+  padding: 12px 48px;
+  color: #fff;
+  font-size: 22px;
+  text-decoration: none;
+  border: solid 4px #fff;
+}
+
+#contact{
+  background-color: #000000;
+  font-size:25px;
+  text-align:center;
+
+  padding: 10px;
+  justify-content:space-between;
+  font-family: quicksand;
+}
+.parallax-container {
+
+    font-size:25px;
+    font-weight:bold;
+    font-family:quicksand;
+    color:#000000;
+    font-style: Bree serif;
+    text-align:center;
+    display: table;
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background: url(http://www.nxworld.net/codepen/css-scroll-down-button/bg01.jpg) no-repeat bottom center fixed;
+    background-color: #000;
+    background-position: left;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .parallax-container2{
+		height: 300px;
+		display: table;
+		width: 100%;
+		padding: 100px 0;
+		background: url(image2.jpg) center center / cover no-repeat fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+		-o-background-size: cover;
+  }
+
+.names{
+	text-align: center;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	height: 100%;
+}
+section {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+section::after {
+	position: absolute;
+		bottom: 0;
+		left: 0;
+		content: '';
+		width: 100%;
+		height: 80%;
+
+}
+section h1 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+
+	color: #fff;
+	font : normal 300 64px/1 'Josefin Sans', sans-serif;
+	text-align: center;
+	white-space: nowrap;
+}
+
+
+
+.demo a {
+	position: absolute;
+	bottom: 20px;
+	left: 50%;
+	z-index: 2;
+	display: inline-block;
+	-webkit-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+	color: #fff;
+	font : normal 400 20px/1 'Josefin Sans', sans-serif;
+	letter-spacing: .1em;
+	text-decoration: none;
+	transition: opacity .3s;
+}
+.demo a:hover {
+	opacity: .5;
+}
+
+
+
+#section01 a {
+	padding-top: 60px;
+}
+#section01 a span {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 24px;
+	height: 24px;
+	margin-left: -12px;
+	border-left: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	-webkit-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	box-sizing: border-box;
+}
+
+
+@media only screen and (max-width: 768px){
+body{margin:0;
+}
+#wrapper{min-width:0;
+width: auto;
+}
+#content{Margin-left:0;
+}
+nav{float:none;
+width: auto;
+padding:0;
+}
+nav ul{text-align:center;
+}
+nav li{display:inline;
+padding-top:0;
+padding-bottom:0;
+padding-right: 0.75em;
+padding-left: 0.75em;
+}
+footer{margin-left:0;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+}
+@media only screen and (max-width: 480px){
+body{margin:0;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+#wrapper{width:auto;
+				 min-width:0;
+		 margin:0;
+}
+#content:{padding-top:0.1 em;
+					padding-bottom:0.1 em;
+			padding-left: 1em;
+			padding-right: 1em;
+			margin:0;
+			font-size:90%;
+}
+h1{margin:0;
+	 font-size:1.5em;
+	 padding-left:0.3em;
+}
+nav ul{padding:0;
+}
+nav li{display:block;
+		 margin:0;
+	 border-bottom: 2px solid #330000;
+}
+nav a:link{display:block;
+}
+#content img{float:none;
+						padding:0;
+			margin:0.1em;
+}
+#content ul{list-style-position:outside;
+}
+#mobile{display:inline;
+}
+#desktop{display:none;
+}
+label{float:none;
+			text-align:none;
+}
+}
