@@ -54,10 +54,24 @@ ul{
   padding-bottom:10px;
 }
 
-.container{
+.body-container{
   max-width:1300px;
   margin:0;
 }
+  .container{
+  background-color:#ffffff;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+  background-image: url(woodfloor.jpg);
+  height:60vh;
+  width:100vw;
+  font-size:25px;
+  color:#000;
+  font-family: quicksand;
+  text-align:center;
+  padding-top: 10px;
+  padding-bottom: 90px;
+     }
 
 
 #contact{
