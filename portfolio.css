@@ -83,7 +83,7 @@ ul{
   font-family: quicksand;
 }
 
-.parallax-container {
+/*.parallax-container {
     height: 150px;
     font-size:25px;
     font-weight:bold;
@@ -114,11 +114,38 @@ ul{
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-  }
+  }*/
 
-  .parallax > img{
-    border-radius: 8px;
-  }
+  
+.parallax {
+  height: 70vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+.parallax.p1 {
+  background: url(mountains.jpg) no-repeat fixed 50% 0;
+  background-size: cover;
+  color: #fff;
+}
+.parallax.p2 {
+  background: url(image2.jpg) no-repeat fixed 50% 0;
+  background-size: cover;
+  color: #fff;
+
+}
+.parallax-text {
+  width: 24em;
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  border: .5em solid #fff;
+  margin-left: -10%;
+  padding: 2em 0;
+  text-align: center;
+  z-index: 999;
+}
+
 
  @media only screen and (max-width: 768px){
   body{margin:0;
