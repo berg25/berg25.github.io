@@ -25,7 +25,7 @@ img{
 .skills{
   text-align: center;
   font-family: quicksand;
-  font-size: 30px;
+  font-size: 27px;
   padding-top: 10px;
   
 }
@@ -70,7 +70,7 @@ ul{
   font-family: quicksand;
   text-align:center;
   padding-top:10px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
      }
 
 
@@ -132,7 +132,7 @@ section h1 {
 
 
 .scroll a {
-	padding-left:50px;
+	padding-right:80px;
 	position: absolute;
 	bottom: 20px;
 	left: 50%;
