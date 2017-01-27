@@ -92,7 +92,7 @@ ul{
     width: 100%;
     padding: 40px 0;
     text-align: center;
-    background: url(images/mountains.jpg) no-repeat bottom center fixed;
+    background: url('images/mountains.jpg') no-repeat bottom center fixed;
     background-color: #000;
     background-position: left;
     -webkit-background-size: cover;
@@ -106,7 +106,7 @@ ul{
     display: table;
     width: 100%;
     padding: 100px 0;
-    background: url(images/image2.jpg) no-repeat bottom center fixed;
+    background: url('images/image2.jpg') no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
