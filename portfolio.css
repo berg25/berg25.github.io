@@ -74,6 +74,15 @@ ul{
   text-align:center;
      }
 
+content__cta {
+  display: inline-block;
+  margin: 0;
+  padding: 12px 48px;
+  color: #fff;
+  font-size: 22px;
+  text-decoration: none;
+  border: solid 4px #fff;
+}
 
 #contact{
 
@@ -84,6 +93,8 @@ ul{
   padding: 10px;
   justify-content:space-between;
   font-family: quicksand;
+  background-color: #000000;
+  
 }
 
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
@@ -191,6 +202,9 @@ section h1 {
     -o-background-size: cover;
   }
 
+.names{
+	text-align: center;
+}
   
 /*.parallax {
   height: 70vh;
@@ -282,23 +296,6 @@ section h1 {
     to {transform:scale(1)}
 }
 
-/* The Close Button */
-.close {
-    position: absolute;
-    top: 15px;
-    right: 35px;
-    color: #f1f1f1;
-    font-size: 40px;
-    font-weight: bold;
-    transition: 0.3s;
-}
-
-.close:hover,
-.close:focus {
-    color: #bbb;
-    text-decoration: none;
-    cursor: pointer;
-}
 
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
