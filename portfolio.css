@@ -132,7 +132,7 @@ section h1 {
 
 
 
-.demo a {
+.scroll a {
 	position: absolute;
 	bottom: 20px;
 	left: 50%;
@@ -146,7 +146,7 @@ section h1 {
 	text-decoration: none;
 	transition: opacity .3s;
 }
-.demo a:hover {
+.scroll a:hover {
 	opacity: .5;
 }
 
