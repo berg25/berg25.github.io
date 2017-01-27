@@ -40,7 +40,6 @@ ul{
   background-color:#ffffff;
   background-repeat:no-repeat;
   background-size:100% 100%;
-  background-image: url(woodfloor.jpg);
   height:60vh;
   width:100vw;
   font-size:25px;
@@ -56,8 +55,6 @@ ul{
 
   font-size:25px;
   text-align:center;
-  margin: auto;
-  width: 60%;
   padding: 10px;
   justify-content:space-between;
   font-family: quicksand;
@@ -94,7 +91,7 @@ ul{
     width: 100%;
     padding: 40px 0;
     text-align: center;
-    background: url(mountains.jpg) no-repeat bottom center fixed;
+    background: url(images/mountains.jpg) no-repeat bottom center fixed;
     background-color: #000;
     background-position: left;
     -webkit-background-size: cover;
@@ -108,7 +105,7 @@ ul{
     display: table;
     width: 100%;
     padding: 100px 0;
-    background: url(image2.jpg) no-repeat bottom center fixed;
+    background: url(images/image2.jpg) no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
