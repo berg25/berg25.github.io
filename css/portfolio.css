@@ -1,18 +1,4 @@
-/*.background-image{
-     background-color:#ffffff;
-     background-repeat:no-repeat;
-	   background-size:100% 100%;
-     background-image: url(mountains.jpg);
-     height:60vh;
-     width:100vw;
-     font-size:40px;
-     font-weight:bold;
-     font-family:quicksand;
-     color:#ffffff;
-     font-style: Bree serif;
-     text-align:center;
-     padding-top: 50px;
-  }*/
+
 
   body{
     margin:0;
@@ -96,7 +82,7 @@ ul{
     }
 }
 
-/*.parallax-container {
+.parallax-container {
     height: 150px;
     font-size:25px;
     font-weight:bold;
@@ -127,7 +113,7 @@ ul{
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-  }*/
+  }
 
   .parallax > img{
     border-radius: 8px;
