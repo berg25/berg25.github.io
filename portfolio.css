@@ -192,7 +192,7 @@ section h1 {
   }
 
   
-.parallax {
+/*.parallax {
   height: 70vh;
   overflow: hidden;
   margin: 0;
@@ -219,7 +219,7 @@ section h1 {
   padding: 2em 0;
   text-align: center;
   z-index: 999;
-}
+}*/
 
 #myImg {
     border-radius: 5px;
