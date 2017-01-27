@@ -12,7 +12,7 @@
 }
 
   #wrapper{
-    
+    padding-right:15px;
     display:flex;
     text-align:center;
     font-family: quicksand;
