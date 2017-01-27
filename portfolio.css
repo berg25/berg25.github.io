@@ -9,8 +9,8 @@ img{
 
 .skills{
   text-align: center;
-  font-family: 
-  font-size: 28px;
+  font-family: "Josefin Sans" thin;
+  font-size: 30px;
   padding-top: 10px;
   
 }
@@ -20,7 +20,7 @@ img{
     
     text-align:center;
     list-style-type:none;	  
-    font-family: 
+    font-family: "Josefin Sans" thin;
     font-size: 40px;
 }
 
@@ -39,7 +39,7 @@ ul{
   justify-content: center;
   flex-wrap: wrap;
   text-align:center;
-  font-family: 
+  font-family: "Josefin Sans" thin;
   font-size: 25px;
   padding-bottom:10px;
 }
