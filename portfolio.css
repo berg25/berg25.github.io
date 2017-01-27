@@ -17,7 +17,7 @@ img{
 
   #wrapper{
     display:flex;
-    
+    padding-left: 430px;
     text-align:center;
     list-style-type:none;	  
     font-family: "Josefin Sans" thin;
@@ -154,7 +154,7 @@ section h1 {
 
 
 .parallax-container {
-    height: 150px;
+    height: 160px;
     font-size:25px;
     font-weight:bold;
     font-family:quicksand;
