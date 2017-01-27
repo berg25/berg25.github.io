@@ -1,4 +1,4 @@
-/*.background-image{
+.background-image{
      background-color:#ffffff;
      background-repeat:no-repeat;
      background-size:100% 100%;
@@ -12,7 +12,7 @@
      font-style: Bree serif;
      text-align:center;
      padding-top: 50px;
-  }*/
+  }
 
 img{
 	border-radius: 8px;
@@ -59,10 +59,6 @@ ul{
   padding-bottom:10px;
 }
 
-.body-container{
-  max-width:1300px;
-  margin:0;
-}
   .container{
   background-color:#ffffff;
   background-repeat:no-repeat;
@@ -74,10 +70,11 @@ ul{
   font-family: quicksand;
   text-align:center;
   padding-top:10px;
-  padding-top: 90px;
+  padding-bottom: 90px;
      }
 
-content__cta {
+
+.content__cta {
   display: inline-block;
   margin: 0;
   padding: 12px 48px;
@@ -86,6 +83,7 @@ content__cta {
   text-decoration: none;
   border: solid 4px #fff;
 }
+
 
 #contact{
 
