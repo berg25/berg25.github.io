@@ -40,21 +40,7 @@ ul{
 
 }
 
-.container{
-  background-color:#ffffff;
-  background-repeat:no-repeat;
-  background-size:100% 100%;
-  background-image:
-  height:60vh;
-  width:100vw;
-  font-size:25px;
-  color:#000000;
-  font-family: quicksand;
-  text-align:center;
-  padding-top: 10px;
-  padding-bottom: 90px;
 
-}
 
 .content__cta {
   display: inline-block;
