@@ -3,22 +3,20 @@
   }
 img{
 	border-radius: 8px;
-}
+}*/
 #skills{
   text-align: center;
   font-family: quicksand;
   font-size: 25px;
 }
 
-  #wrapper{
+  /*#wrapper{
     display:flex;
-
-    
     text-align:center;
     font-family: quicksand;
-		list-style-type: none;
-	  font-size: 40px;
-		justify-content: space-between;
+    list-style-type: none;
+    font-size: 40px;
+    justify-content: space-between;
 }*/
 
 /*ul{
