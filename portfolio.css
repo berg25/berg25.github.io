@@ -70,7 +70,7 @@ ul{
   font-family: quicksand;
   text-align:center;
   padding-top:10px;
-  padding-bottom: 60px;
+  padding-bottom: 40px;
      }
 
 
@@ -132,7 +132,7 @@ section h1 {
 
 
 .scroll a {
-	padding-right:20px;
+	padding-right:50px;
 	position: absolute;
 	bottom: 20px;
 	left: 50%;
