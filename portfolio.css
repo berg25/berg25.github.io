@@ -1,4 +1,4 @@
-.background-image{
+/*.background-image{
      background-color:#ffffff;
      background-repeat:no-repeat;
      background-size:100% 100%;
@@ -12,14 +12,14 @@
      font-style: Bree serif;
      text-align:center;
      padding-top: 50px;
-  }
+  }*/
 
 img{
 	border-radius: 8px;
 }
   body{
     margin:0;
-    text-align:center;
+    
   }
 
 .skills{
@@ -34,7 +34,9 @@ img{
     display:flex;
     padding-left: 400px;
     text-align:center;
+    list-style-type:none;	  
     font-family: quicksand;
+    font-size: 40px;
 }
 
 ul{
@@ -65,13 +67,14 @@ ul{
   background-color:#ffffff;
   background-repeat:no-repeat;
   background-size:100% 100%;
-  background-image: url(woodfloor.jpg);
   height:60vh;
   width:100vw;
   font-size:25px;
   color:#000;
   font-family: quicksand;
   text-align:center;
+  padding-top:10px;
+  padding-top: 90px;
      }
 
 content__cta {
@@ -88,8 +91,6 @@ content__cta {
 
   font-size:25px;
   text-align:center;
-  margin: auto;
-  width: 60%;
   padding: 10px;
   justify-content:space-between;
   font-family: quicksand;
