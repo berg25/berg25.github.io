@@ -82,7 +82,7 @@ ul{
 }
 
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
-/** {
+* {
 	margin: 0;
 	padding: 0;
 }
@@ -112,7 +112,7 @@ section h1 {
 	font : normal 300 64px/1 'Josefin Sans', sans-serif;
 	text-align: center;
 	white-space: nowrap;
-}*/
+}
 
 
 
@@ -120,7 +120,7 @@ section h1 {
 	
 	position: absolute;
 	bottom: 20px;
-	left: 40%;
+	left: 50%;
 	z-index: 2;
 	display: inline-block;
 	-webkit-transform: translate(0, -50%);
