@@ -9,7 +9,7 @@ img{
 
 .skills{
   text-align: center;
-  font-family: quicksand;
+  font-family: "Josefin Sans";
   font-size: 28px;
   padding-top: 10px;
   
@@ -17,10 +17,10 @@ img{
 
   #wrapper{
     display:flex;
-    padding-left: 500px;
+    
     text-align:center;
     list-style-type:none;	  
-    font-family: quicksand;
+    font-family: "Josefin Sans";
     font-size: 40px;
 }
 
@@ -39,7 +39,7 @@ ul{
   justify-content: center;
   flex-wrap: wrap;
   text-align:center;
-  font-family: quicksand;
+  font-family: "Josefin Sans";
   font-size: 25px;
   padding-bottom:10px;
 }
