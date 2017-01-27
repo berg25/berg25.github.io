@@ -75,7 +75,7 @@ ul{
   justify-content:space-between;
   font-family: quicksand;
 }
-/*.parallax-container {
+.parallax-container {
 
     font-size:25px;
     font-weight:bold;
@@ -107,7 +107,7 @@ ul{
 		background-size: cover;
 		-o-background-size: cover;
   }
-*/
+
 .names{
 	text-align: center;
 }
