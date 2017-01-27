@@ -12,6 +12,7 @@
 }
 
   #wrapper{
+    padding-left: 100px;
     display:flex;
     text-align:center;
     font-family: quicksand;
