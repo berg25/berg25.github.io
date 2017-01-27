@@ -116,8 +116,7 @@ section h1 {
 
 
 
-.scroll a {
-	
+.demo a {
 	position: absolute;
 	bottom: 20px;
 	left: 50%;
@@ -131,14 +130,13 @@ section h1 {
 	text-decoration: none;
 	transition: opacity .3s;
 }
-.scroll a:hover {
+.demo a:hover {
 	opacity: .5;
 }
 
 
 
 #section01 a {
-	padding-right:100px;
 	padding-top: 60px;
 }
 #section01 a span {
@@ -154,6 +152,7 @@ section h1 {
 	transform: rotate(-45deg);
 	box-sizing: border-box;
 }
+
 
 .parallax-container {
     height: 150px;
