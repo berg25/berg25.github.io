@@ -3,7 +3,7 @@
   }
 img{
 	border-radius: 8px;
-}
+}*/
 #skills{
   text-align: center;
   font-family: quicksand;
@@ -21,7 +21,7 @@ img{
 		justify-content: space-between;
 }
 
-ul{
+/*ul{
   list-style-type: none;
   text-align: center;
   font-size: 40px;
@@ -39,7 +39,7 @@ ul{
   font-size: 25px;
 
 }
-
+*/
 .container{
   background-color:#ffffff;
   background-repeat:no-repeat;
@@ -70,12 +70,11 @@ ul{
   background-color: #000000;
   font-size:25px;
   text-align:center;
-
   padding: 10px;
   justify-content:space-between;
   font-family: quicksand;
 }
-.parallax-container {
+/*.parallax-container {
 
     font-size:25px;
     font-weight:bold;
