@@ -85,6 +85,30 @@ ul{
     }
 }
 
+/*.parallax {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.parallax.p1 {
+  background: url(images/mountains.jpg) no-repeat fixed 50% 0;
+  background-size: cover;
+  color: #000;
+  height: 90vh;
+  font-size:25px;
+  padding-top: 40px;
+}
+
+.parallax.p2 {
+  background: url(images/image2.jpg) no-repeat fixed 50% 0;
+  background-size: cover;
+  color: #fff;
+  height: 80vh;
+
+}*/
+
 .parallax-container {
     height: 150px;
     font-size:25px;
