@@ -15,7 +15,7 @@ img{
 
   #wrapper{
     display:flex;
-    
+    padding-left:400px;
     text-align:center;
     font-family: quicksand;
     list-style-type: none;
