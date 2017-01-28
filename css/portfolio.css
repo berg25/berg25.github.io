@@ -14,10 +14,13 @@ img{
 }
 
   #wrapper{
-    padding-right:25px;
     display:flex;
+    
     text-align:center;
     font-family: quicksand;
+    list-style-type: none;
+    font-size: 40px;
+    justify-content: space-between;
 }
 
 ul{
