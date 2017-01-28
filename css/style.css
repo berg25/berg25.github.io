@@ -1,4 +1,4 @@
-body{
+/*body{
     margin:0;
   }
 img{
@@ -108,11 +108,11 @@ ul{
 		-o-background-size: cover;
   }
 
-.names{
+/*.names{
 	text-align: center;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
+/*@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
 * {
 	margin: 0;
 	padding: 0;
@@ -185,7 +185,7 @@ section h1 {
 }
 
 
-@media only screen and (max-width: 768px){
+/*@media only screen and (max-width: 768px){
 body{margin:0;
 }
 #wrapper{min-width:0;
