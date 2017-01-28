@@ -235,6 +235,7 @@ section h1 {
   }
   #wrapper{min-width:0;
   width: auto;
+	  padding-right: 200px;
   }
   #content{Margin-left:0;
   }
@@ -269,6 +270,7 @@ section h1 {
   #wrapper{width:auto;
            min-width:0;
   		 margin:0;
+	  padding-right: 200px;
   }
   #content:{padding-top:0.1 em;
             padding-bottom:0.1 em;
