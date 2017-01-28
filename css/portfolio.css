@@ -1,8 +1,10 @@
-
-
-  body{
+body{
     margin:0;
   }
+
+img{
+	border-radius: 8px;
+}
 
 .skills{
   text-align: center;
@@ -48,12 +50,12 @@ ul{
   font-family: quicksand;
   text-align:center;
   padding-top: 10px;
-  padding-bottom: 90px;
+  padding-bottom: 40px;
 }
 
 
 #contact{
-
+  background-color:#000000;
   font-size:25px;
   text-align:center;
   padding: 10px;
@@ -116,6 +118,9 @@ ul{
   .parallax > img{
     border-radius: 8px;
   }
+.names{
+	text-align: center;
+}
 
  @media only screen and (max-width: 768px){
   body{margin:0;
